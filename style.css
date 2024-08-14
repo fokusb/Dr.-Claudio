@@ -1,0 +1,25 @@
+body {
+    background:rgb(2, 91, 86);
+    color: white;
+    margin:0px;
+    font-family: "Playwrite BE VLG", cursive;
+
+    }
+
+header {
+    border-bottom: solid 20px green;
+    padding: 20px;
+    font-size: 32px;
+    font-style: italic;
+}
+section {
+background:rgb(0,128,0);
+padding-bottom: 50px;
+padding-top: 50px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 3%;
+}
